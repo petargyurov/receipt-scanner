@@ -1,0 +1,6 @@
+/.idea
+/venv
+/__pychache__
+*.sqlite
+*.pyc
+*.jpg
